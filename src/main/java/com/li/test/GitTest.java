@@ -6,5 +6,6 @@ public class GitTest {
         System.out.println("second");
         System.out.println("master");
         System.out.println("hot");
+        System.out.println("change");
     }
 }
